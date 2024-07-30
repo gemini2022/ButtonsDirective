@@ -3,6 +3,41 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "base-button-directive": [
+        "./dist/base-button-directive"
+      ],
+      "base-icon-button-directive": [
+        "./dist/base-icon-button-directive"
+      ],
+      "base-text-button-directive": [
+        "./dist/base-text-button-directive"
+      ],
+      "primary-button-directive": [
+        "./dist/primary-button-directive"
+      ],
+      "primary-icon-button-directive": [
+        "./dist/primary-icon-button-directive"
+      ],
+      "quaternary-button-directive": [
+        "./dist/quaternary-button-directive"
+      ],
+      "quaternary-icon-button-directive": [
+        "./dist/quaternary-icon-button-directive"
+      ],
+      "secondary-button-directive": [
+        "./dist/secondary-button-directive"
+      ],
+      "secondary-icon-button-directive": [
+        "./dist/secondary-icon-button-directive"
+      ],
+      "tertiary-button-directive": [
+        "./dist/tertiary-button-directive"
+      ],
+      "tertiary-icon-button-directive": [
+        "./dist/tertiary-icon-button-directive"
+      ]
+    },
     "outDir": "./dist/out-tsc",
     "strict": true,
     "noImplicitOverride": true,

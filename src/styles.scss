@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+@use './styles/primary-button-directive';
+@use './styles/primary-icon-button-directive';
+@use './styles/quaternary-button-directive';
+@use './styles/quaternary-icon-button-directive';
+@use './styles/secondary-button-directive';
+@use './styles/secondary-icon-button-directive';
+@use './styles/tertiary-button-directive';
+@use './styles/tertiary-icon-button-directive';
